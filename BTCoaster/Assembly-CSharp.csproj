@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\BitcoinPrice.cs" />
+     <Compile Include="Assets\implementBitcoinPoint.cs" />
      <Compile Include="Assets\ZFTrack\Demo\Scripts\CartFreezer.cs" />
      <Compile Include="Assets\ZFTrack\Demo\Scripts\LiftControl.cs" />
      <Compile Include="Assets\ZFTrack\Demo\Scripts\ReverseForce.cs" />
